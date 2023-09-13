@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Quality Assurance Engineer.
+
+I care about all things quality and making products accessible.
+
 <!--
 **Trantastic/Trantastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
