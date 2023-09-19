@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Quality Assurance Engineer.
+I'm a Quality Assurance Engineer with over 4 years of experience.
 
 I care about all things quality and making products accessible.
 
